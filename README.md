@@ -72,7 +72,6 @@ Finalmente, se detallaron los casos de uso del sistema, especificando interaccio
 
 ## **Contacto**
 Para más información sobre el proyecto, por favor contactar a:
-- **Nombre:** [Tu Nombre]
-- **Correo Electrónico:** [Tu Email]
+- **Nombre:** Erick Jauregui , Veronica Rosales , Esteban Avendaño , Ariel Astete , William Pinedo 
 - **Rol:** Analista y Diseñador del Sistema.
 
